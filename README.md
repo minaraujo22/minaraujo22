@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @minaraujo22
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 ola,meu nome é @minaraujo22
+- 👀 eu estou intereçado em aprender programação 
+- 🌱 eu estou atualmente aprendendo programação básica 
+- meu email para contato é araujo.yasmim@escola.pr.gov.br
+- 💞️ eu gostaria de colaborar com a alura para enriquecer meus estudos 
 
-<!---
-minaraujo22/minaraujo22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
